@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhenhao Li"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhenhao Li"
 description              : &description "personal description"
 url                      : https://nickeilf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Zhenhao1"
+  twitter          : "ZhenhaoLi1"
   vine             :
   weibo            :
   xing             :
