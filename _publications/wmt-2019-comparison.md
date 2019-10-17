@@ -4,9 +4,10 @@ collection: publications
 permalink: /publication/wmt-2019-comparison
 date: 2018-07-16
 venue: 'Proceedings of the Fourth Conference on Machine Translation (Volume 2: Shared Task Papers, Day 1)'
-paperurl: 'https://www.aclweb.org/anthology/W19-5324/'
+paperurl: 'https://www.aclweb.org/anthology/W19-5324.pdf'
 paperurltext: 'pdf'
-citation: '<b>Zhenhao Li</b>, Lucia Specia <a href="https://www.aclweb.org/anthology/W19-5324/"><u>A Comparison on Fine-grained Pre-trained Embeddings for the WMT19Chinese-English News Translation Task</u></a>. In <i>Proceedings of the Fourth Conference on Machine Translation (Volume 2: Shared Task Papers, Day 1)</i>, 2019.'
+bibtex: 'https://www.aclweb.org/anthology/W19-5324.bib'
+citation: '<b>Zhenhao Li</b>, Lucia Specia. <a href="https://www.aclweb.org/anthology/W19-5324/">A Comparison on Fine-grained Pre-trained Embeddings for the WMT19Chinese-English News Translation Task</a>. In <i>Proceedings of the Fourth Conference on Machine Translation (Volume 2: Shared Task Papers, Day 1)</i>, 2019.'
 ---
 
 ```
