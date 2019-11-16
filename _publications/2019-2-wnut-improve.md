@@ -3,8 +3,8 @@ title: "Improving Neural Machine Translation Robustness via Data Augmentation: B
 collection: publications
 permalink: /publication/2019-2-wnut-improve
 venue: 'Proceedings of The 5th Workshop on Noisy User-generated Text (W-NUT)'
-paperurl: 'https://arxiv.org/pdf/1910.03009'
+paperurl: 'https://www.aclweb.org/anthology/D19-5543.pdf'
 paperurltext: 'pdf'
-bibtex: 'https://scholar.googleusercontent.com/scholar.bib?q=info:pj0MkLkhtgUJ:scholar.google.com/&output=citation&scisdr=CgWE6djYEIGsxEq6OzQ:AAGBfm0AAAAAXae_IzSKFvR7dLn2FTfVHwpFESgxdvjC&scisig=AAGBfm0AAAAAXae_I31ulRHxMWn8RKsHfJqDWyQ6yTDj&scisf=4&ct=citation&cd=-1&hl=zh-CN'
+bibtex: 'https://www.aclweb.org/anthology/D19-5543.bib'
 citation: '<b>Zhenhao Li</b>, Lucia Specia. Improving Neural Machine Translation Robustness via Data Augmentation: Beyond Back Translation. In <i>Proceedings of The 5th Workshop on Noisy User-generated Text (W-NUT)</i>, 2019.'
 ---
