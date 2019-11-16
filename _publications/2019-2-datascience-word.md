@@ -1,7 +1,7 @@
 ---
 title: "Word Segmentation for Chinese Judicial Documents"
 collection: publications
-permalink: /publication/2019-3-datascience-word
+permalink: /publication/2019-2-datascience-word
 venue: 'Data Science, 5th International Conference of Pioneering Computer Scientists, Engineers and Educators, ICPCSEE 2019'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-15-0118-0_36'
 paperurltext: 'pdf'
