@@ -1,7 +1,7 @@
 ---
 title: "Improving Neural Machine Translation Robustness via Data Augmentation: Beyond Back Translation"
 collection: publications
-permalink: /publication/wnut-2019-improve
+permalink: /publication/2019-2-wnut-improve
 venue: 'Proceedings of The 5th Workshop on Noisy User-generated Text (W-NUT)'
 paperurl: 'https://arxiv.org/pdf/1910.03009'
 paperurltext: 'pdf'
