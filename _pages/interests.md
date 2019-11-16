@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-### Personal Interest
 - Man United
 - Game (playing *Pokemon Sword*)
 - Cooking (no more fish&chips)
