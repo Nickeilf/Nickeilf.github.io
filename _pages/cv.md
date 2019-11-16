@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in Software Engineering, Nanjing University, 2018. Overall mark 87.8/100
 * M.S. in Computing (Artificial Intelligence), Imperial College London, 2019. Degree: Distinction
-* Ph.D in Natural Language Processing, Imperial College London, 2022 (expected)
+* Ph.D in Natural Language Processing, Imperial College London, 2023 (expected)
 
 <!-- Work experience
 ======
