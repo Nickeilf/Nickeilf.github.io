@@ -12,5 +12,6 @@ I am currently a first-year PhD at Imperial College London, supervised by Prof [
 Before starting PhD, I finished his MSc in Artificial Intelligence (Disctinction) at Imperial, also under the supervision of Prof Lucia. I obtained my BEng degree in Nanjing University where I majored software engineering.
 
 ### Teaching
-- 2019-2020 Spring term: going to be a Graduate Teaching Assistant for CO490 Natural Language Processing.
+- 2020 March: Teaching volunteer at [AICore](https://www.theaicore.com/).
+- 2019-2020 Spring term: Graduate Teaching Assistant for CO490 Natural Language Processing.
 - 2016-2017 Spring term: Undergrad Teaching Assistant for course Operating System.
