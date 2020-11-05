@@ -7,9 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a first-year PhD at Imperial College London, supervised by Prof [Lucia Specia](https://www.imperial.ac.uk/people/l.specia). My research mainly focuses on robust natural language processing that deals with noisy and informal inputs. Specifically, I am greatly interested in machine translation, and langugage modeling.
+I am currently a second-year PhD at Imperial College London, supervised by Prof. [Lucia Specia](https://www.imperial.ac.uk/people/l.specia) and Dr. [Marek Rei](https://www.marekrei.com/). My research mainly focuses on robust natural language processing that deals with unusual data, such as noisy texts, out-of-domain data, and adversarial attacks. Specifically, I am greatly interested in machine translation, and multimodal machine learning.
 
-Before starting PhD, I finished his MSc in Artificial Intelligence (Disctinction) at Imperial, also under the supervision of Prof Lucia. I obtained my BEng degree in Nanjing University where I majored software engineering.
+Before starting PhD, I finished his MSc in Artificial Intelligence (Disctinction) at Imperial College London, also under the supervision of Prof. Specia. I obtained my BEng degree in Software Engineering from Nanjing University.
+
+### Work
+- June 2020 - May 2021: Research Assistant in Multimodal Machine Learning at Imperial College London.
 
 ### Teaching
 - 2020 March: Teaching volunteer at [AICore](https://www.theaicore.com/).

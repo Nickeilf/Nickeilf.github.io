@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 - Man United
-- Game (playing *Pokemon Sword*)
-- Cooking (no more fish&chips)
-- ~~Reading~~ buying books
+- Nentindo Switch
+- Cooking
+- Reading
 
 I love Wenqing Peng ❤️
