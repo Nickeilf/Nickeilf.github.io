@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 - Man United
-- Nentindo Switch
+- Nintendo Switch
 - Cooking
 - Reading
 
