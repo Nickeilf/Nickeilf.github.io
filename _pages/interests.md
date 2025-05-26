@@ -7,9 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-- Man United
-- Nintendo Switch
-- Cooking
+- Dogs
+- Gardening
+- Driving
 - Reading
 
-I love Wenqing Peng - my dear wife ❤️
+I love Wenqing Peng - my dear wife and Xiaoshui - my cute golden retriever ❤️
