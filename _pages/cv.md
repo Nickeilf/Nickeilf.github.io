@@ -12,9 +12,9 @@ see my CV [here](https://nickeilf.github.io/files/My_CV.pdf)
 
 Education
 ======
-* Ph.D in Natural Language Processing, Imperial College London, 2025
+* Ph.D in Natural Language Processing, Imperial College London, 2025. [Thesis](https://spiral.imperial.ac.uk/entities/publication/8eea262c-9a6b-4581-a610-2c90ed0c6c4c)
 * M.S. in Computing (Artificial Intelligence), Imperial College London, 2019. Degree: Distinction ([Thesis](https://nickeilf.github.io/files/master_thesis.pdf))
-* B.S. in Software Engineering, Nanjing University, 2018. Overall mark 87.8/100
+* B.S. in Software Engineering, Nanjing University, 2018.
 
 <!-- Work experience
 ======
@@ -37,11 +37,11 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======

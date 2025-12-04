@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a research engineer at Epic Games, focusing on AI for game development (i.e. Epic Developer Assistant). Previously, I finished my PhD at Imperial College London, supervised by Prof. [Lucia Specia](https://www.imperial.ac.uk/people/l.specia) and Dr. [Marek Rei](https://www.marekrei.com/). Before starting PhD, I finished my MSc degree in Computing (Artificial Intelligence) with disctinction at Imperial College London, under the supervision of Prof. Lucia Specia. I obtained my BEng degree in Software Engineering from Nanjing University.
+I am a Lead Research Engineer at Epic Games, focusing on AI for game development (i.e. Epic Developer Assistant). Previously, I finished my PhD at Imperial College London, supervised by Prof. [Lucia Specia](https://www.imperial.ac.uk/people/l.specia) and Dr. [Marek Rei](https://www.marekrei.com/). Before starting PhD, I finished my MSc degree in Computing (Artificial Intelligence) with disctinction at Imperial College London, under the supervision of Prof. Lucia Specia. I obtained my BEng degree in Software Engineering from Nanjing University.
 
 ### Research Interests
 I am currently working on AI for gaming, which involves exciting topics such as code generation, synthetic data, agentic system, and gameplay AI. Previously, I worked on robust natural language processing (e.g. handling noisy texts, model biases, and adversarial attacks), text moderation, and multimodal machine translation.
 
 ### Work
-- Jan 2023 - Present: Research Engineer at Epic Games
+- Dec 2025 - Present: Lead Research Engineer at Epic Games
+- Jan 2023 - Nov 2023: Research Engineer at Epic Games
 - Dec 2021 - Dec 2022: Research Engineer at Contex.AI (acquired by Epic Games)
 - June 2020 - Dec 2021: Research Assistant in Multimodal Machine Learning at Imperial College London
 
